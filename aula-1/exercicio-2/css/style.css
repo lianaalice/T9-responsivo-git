@@ -32,6 +32,8 @@ h2 {
 
 .sobre-conteudo__img {
     margin-top: 80px;
+    width: 100%;
+    max-width: 200px;
 }  
     
 .sobre-conteudo {
