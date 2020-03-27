@@ -1,0 +1,18 @@
+/* css para mobile 320px*/
+
+.html {
+    font-size: 10px;
+}
+
+.body {
+    width: 100%;
+}
+
+.menu__desktop__item {
+    display: none;
+}
+
+.menu__mobile {
+    border-radius: 10px;
+
+}
