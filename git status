@@ -1,0 +1,66 @@
+[33mcommit ec0c0c593cefba0eed9a93b883e58503b96b8772[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: ae98024 c031336
+Author: liana alice <lyannalisse@gmail.com>
+Date:   Wed Mar 25 16:23:36 2020 -0300
+
+    executanto-responsivo-exerc4
+
+[33mcommit ae980243f6e85e359fc4e400a0787e4815e9242d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: liana alice <lyannalisse@gmail.com>
+Date:   Wed Mar 25 11:23:14 2020 -0300
+
+    exercicio-2-max-width
+
+[33mcommit c031336e142a3bdb31239fc9866fdbb6386b4a41[m[33m ([m[1;31mupstream/master[m[33m)[m
+Author: Mellina Yonashiro <yonashiro.mellina@gmail.com>
+Date:   Tue Mar 24 19:58:24 2020 -0300
+
+    aAdição de imagens para .md
+
+[33mcommit 006373e21fe97ea073af39d4f4b07d2d41e3a1e8[m
+Merge: f3e8875 70dbd08
+Author: Mellina Yonashiro <pong7219@gmail.com>
+Date:   Tue Mar 24 18:52:47 2020 -0300
+
+    Merge pull request #2 from reprograma/terca
+    
+    Terca
+
+[33mcommit f3e88750834e3245051acc53a8c722cd54870939[m
+Author: Mellina Yonashiro <yonashiro.mellina@gmail.com>
+Date:   Tue Mar 24 16:54:29 2020 -0300
+
+    Solução dos exercícios da aula 1
+
+[33mcommit 70dbd08197fc18693e7a1ef813959edc7f837386[m[33m ([m[1;31mupstream/terca[m[33m, [m[1;31morigin/terca[m[33m)[m
+Author: Mellina Yonashiro <yonashiro.mellina@gmail.com>
+Date:   Sat Mar 21 23:23:38 2020 -0300
+
+    Atualização de readme e responsividade.md
+
+[33mcommit c4ab6c09e158419b71e8a5c2cc4be584642f013f[m
+Author: Mellina Yonashiro <yonashiro.mellina@gmail.com>
+Date:   Sat Mar 21 23:17:14 2020 -0300
+
+    Upload de exercício do dia 2
+
+[33mcommit e085a98b6f92950d30ea8ebbbbc585d1e1ed699b[m
+Merge: 32f1c05 817d432
+Author: Mellina Yonashiro <pong7219@gmail.com>
+Date:   Sat Mar 21 22:51:34 2020 -0300
+
+    Merge pull request #1 from reprograma/segunda
+    
+    Arquivos de exercícios e explicação do dia 1
+
+[33mcommit 817d432be8bf09662b4a184d186480ebd7a89105[m[33m ([m[1;31mupstream/segunda[m[33m, [m[1;31morigin/segunda[m[33m)[m
+Author: Mellina Yonashiro <yonashiro.mellina@gmail.com>
+Date:   Sat Mar 21 22:50:19 2020 -0300
+
+    Arquivos de exercícios e explicação do dia 1
+
+[33mcommit 32f1c05067b45247441e481425c867508d645db2[m
+Author: Mellina Yonashiro <yonashiro.mellina@gmail.com>
+Date:   Fri Mar 20 22:34:23 2020 -0300
+
+    first commit
